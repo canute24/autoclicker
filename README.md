@@ -1,5 +1,5 @@
 # Autoclicker
-#### Left click by mouse movement
+#### Click using mouse movement
 
 A long time ago I used to use this software which clicks for you when you stop moving your mouse to reduce clicking fatigue which I can find anymore. So I made a simple one in AutoIt.
 
